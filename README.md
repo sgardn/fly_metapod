@@ -1,5 +1,9 @@
 # FlyMetapod
 
+This is a basic Phoenix app used for debugging deploy issues on Fly.io here: https://community.fly.io/t/basic-phoenix-app-fails-to-deploy/18001
+
+## Context
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
